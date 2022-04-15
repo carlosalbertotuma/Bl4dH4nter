@@ -60,7 +60,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="#">
         <img src="bl4dsc4n.jpeg" width="100px;" alt="Carlos Tuma - Bl4dSc4n"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Carlos Tuma - Bl4dSc4n</b>
         </sub>
       </a>
     </td>
