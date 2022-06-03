@@ -1,4 +1,4 @@
-# Bl4dH4n3r
+# Bl4dHunt3r V.0.3
  Tool for Pentester & BugHunter
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
@@ -48,7 +48,27 @@ Para usar Bl4dHunt3r, siga estas etapas:
 ```
 Instale primeiro os pré requisitos.
 baixe o script e der permissão de execução: sudo chmod +x bl4dhunt3r.sh
-execute com permissão de root: sudo ./bl4dhunter.sh 
+Ps. execute como root
+ 
+##############################################
+# Use: ./bl4dhunt3r dominio.com U N N        #
+#      ./bl4dhunt3r dominio C S S            #
+#                                            #
+#                                            #
+# Opcoes : dominio.com U N N                 #
+#          dominio C N N                     #
+#                                            #
+#          U  = dominio Unico                #
+#          S  = Sub dominios                 #
+#          SS = Sub/Sub dominios             #
+#          C  = ProjectChaos                 #
+#                                            #
+#          S ou N = Verificar tecnologias    #
+#          S ou N = verifiar WordPress       #
+#                                            #
+# Obs: ProjectChaos "C" dominio sem o final  #
+##############################################
+  
 ```
 
 ## 🤝 Colaboradores
