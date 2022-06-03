@@ -37,6 +37,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Retire Js `https://github.com/retirejs/retire.js/`
 * Wappalyzer-cli `https://github.com/gokulapap/wappalyzer-cli`
 * Uro `https://github.com/s0md3v/uro`
+* Notify `https://github.com/projectdiscovery/notify`
 
 ## 🚀 Testado Kali Linux:
 
