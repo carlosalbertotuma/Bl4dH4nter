@@ -13,7 +13,7 @@
 ![v-0 3](https://user-images.githubusercontent.com/13341724/171964187-477fe547-be8b-483f-835f-1d6402274a0c.PNG)
 
 
-> Projeto criado para reconhecimento e ataque automatizado, a ferramenta é voltada por Pentester, BugHunter e entusiasta em Ethical Hackding, a ferramenta utiliza  algumas tools que não são de minha autoria, não façam teste em dominio sem permissão, não me responsabilizo pelo mau uso da ferramenta, toda e qualquer utilização para o crime é de inteira responsabilidade de quem utiliza.
+> Projeto criado para reconhecimento e ataque automatizado, a ferramenta é voltada por Pentester, BugHunter e entusiasta em Ethical Hackding, a ferramenta utiliza  algumas tools que não são de minha autoria, não faça teste em dominio sem permissão, não me responsabilizo pelo mau uso da ferramenta, toda e qualquer utilização para o crime é de inteira responsabilidade de quem utiliza.
 
 ### Ajustes e melhorias
 
@@ -32,7 +32,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Subfinder `https://github.com/projectdiscovery/subfinder`
 * Findomain `https://github.com/Findomain/Findomain`
 * Httpx `https://github.com/projectdiscovery/httpx`
-* Fdupes `https://github.com/adrianlopezroche/fdupes` no linux pode ser instalado >>> sudo apt-get install fdupes
+* Fdupes `https://github.com/adrianlopezroche/fdupes` pode ser instalado >>> sudo apt-get install fdupes
 * Qsreplace `https://github.com/tomnomnom/qsreplace`
 * Retire Js `https://github.com/retirejs/retire.js/`
 * Wappalyzer-cli `https://github.com/gokulapap/wappalyzer-cli`
@@ -67,6 +67,7 @@ Ps. execute como root
 #          S ou N = verifiar WordPress       #
 #                                            #
 # Obs: ProjectChaos "C" dominio sem o final  #
+# nome composto separar _                    #
 ##############################################
   
 ```
@@ -92,7 +93,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 ## 📝 Licença
 
-Esse projeto está sob é de livre uso e modificação, favor manter os créditos em comentário.
+Esse projeto é de livre uso e modificação, favor manter os créditos em comentário.
  
 Ps. não utilize para crimes ciberneticos, não tenho responsábilidade do mau uso da ferramenta.
 
