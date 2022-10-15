@@ -13,7 +13,7 @@
 ![v-0 3](https://user-images.githubusercontent.com/13341724/171964187-477fe547-be8b-483f-835f-1d6402274a0c.PNG)
 
 
-> Projeto criado para reconhecimento e ataque automatizado, a ferramenta é voltada por Pentester, BugHunter e entusiasta em Ethical Hackding, a ferramenta utiliza  algumas tools que não são de minha autoria, não faça teste em dominio sem permissão, não me responsabilizo pelo mau uso da ferramenta, toda e qualquer utilização para o crime é de inteira responsabilidade de quem utiliza.
+> Projeto criado para reconhecimento e ataque automatizado, a ferramenta é voltada por Pentester, BugHunter e entusiasta em Ethical Hacking, a ferramenta utiliza  algumas tools que não são de minha autoria, não faça teste em dominio sem permissão, não me responsabilizo pelo mau uso da ferramenta, toda e qualquer utilização para o crime é de inteira responsabilidade de quem utiliza.
 
 ### Ajustes e melhorias
 
